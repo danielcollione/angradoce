@@ -6,4 +6,4 @@
 :HL["/angradoce/_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"pagina","t":"c","k":"servicos/camareira","s":["pacotes","painel"]},"h":65632,"c":"$Q2"}]]
-0:{"b":"X5T8JKlbMd95YedypcHzB","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"AA_7tClJVS5kzyX-oda9B","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
