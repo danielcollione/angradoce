@@ -1,9 +1,9 @@
 :HL["/angradoce/_next/static/chunks/37hgez_tb1cjc.css","style"]
-:HL["/angradoce/_next/static/chunks/2jguutd-zt795.css","style"]
+:HL["/angradoce/_next/static/chunks/3x2pk30p_30-m.css","style"]
 :HL["/angradoce/_next/static/media/4bd950c905cec094-s.p.2cu9iw-l3ih8o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/angradoce/_next/static/media/613b43009fa7c7ae-s.p.2zanptnlo2hyo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/angradoce/_next/static/media/65341aea9fb91af5-s.p.1dqa_6e_ad4sj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/angradoce/_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"pagina","t":"c","k":"servicos/chef","s":["pacotes","painel"]},"h":65632,"c":"$Q2"}]]
-0:{"b":"2POhfHKMvVjN0OZqFs_gZ","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"qWSkFoeDQxD9gZu_wiGuk","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
